@@ -86,4 +86,3 @@ export TERMSHOT_SOUND="$HOME/sounds/gunshot.wav"
 ## Notes
 
 - Rapid Enter presses (e.g. holding it down) will overlap sounds, since playback always runs in the background rather than blocking your typing.
-- The bundled `shot.wav` is synthesized, not a sampled recording — swap it for a royalty-free sound (e.g. from freesound.org, filtered to CC0) if you want something punchier.
