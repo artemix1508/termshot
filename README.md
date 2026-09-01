@@ -86,3 +86,4 @@ export TERMSHOT_SOUND="$HOME/sounds/gunshot.wav"
 ## Notes
 
 - Rapid Enter presses (e.g. holding it down) will overlap sounds, since playback always runs in the background rather than blocking your typing.
+- You WILL get jumpscared with the default sound if you forget that you have this, i am not responsible for any damages caused by this.
