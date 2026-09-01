@@ -22,7 +22,7 @@ Because everything happens inside your shell's line editor, there's no dependenc
 ## Install
 
 ```bash
-git clone <your-repo-url> termshot
+git clone https://github.com/artemix1508/termshot
 cd termshot
 chmod +x install.sh
 ./install.sh
